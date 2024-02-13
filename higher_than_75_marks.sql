@@ -12,7 +12,7 @@
 -- -- order by name ASC; did mistake here 
 -- -- order by right(name, 3), ID ASC;
 -- ORDER BY SUBSTR(Name, LENGTH(Name) - 2), ID ASC;
-
+---ok this the 
 
 SELECT NAME
 FROM STUDENTS
